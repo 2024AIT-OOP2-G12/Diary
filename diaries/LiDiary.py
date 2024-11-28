@@ -6,7 +6,7 @@ class LiDiary(AbstractDiary):
         return "2024-11-28"
 
     def get_summary(self):
-        return "GitHubの使用について学んで、大変だった。"
+        return "GitHubの使用について学んで、大変だった。時間かかった。"
 
     def get_author(self):
         return "Li"
