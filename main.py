@@ -3,7 +3,7 @@ from diaries.NunomeDiary import NunomeDiary
 
 from diaries.NiwaDiary import NiwaDiary
 from diaries.KoheiDiary import KoheiDiary
-from diaries.kittadiary import kittaDiary
+from diaries.kittadiary import kittadiary
 # ↓のリストには、メンバーの各日記が格納されます。
 
 diaries = [DiarySample(),
