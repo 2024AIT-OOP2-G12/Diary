@@ -3,12 +3,12 @@ from diaries.NunomeDiary import NunomeDiary
 
 from diaries.NiwaDiary import NiwaDiary
 from diaries.KoheiDiary import KoheiDiary
-from diaries.kittadiary import kittadiary
+from diaries.KittaDiary import KittaDiary
 # ↓のリストには、メンバーの各日記が格納されます。
 
 diaries = [DiarySample(),
            NiwaDiary(),
-           kittaDiary(),
+           KittaDiary(),
            KoheiDiary(),
            NiwaDiary()]
 
