@@ -1,5 +1,9 @@
 from diaries.DiarySample import DiarySample
+
+from diaries.NunomeDiary import NunomeDiary
+
 from diaries.NiwaDiary import NiwaDiary
+
 # ↓のリストには、メンバーの各日記が格納されます。
 diaries = [DiarySample(),NiwaDiary()]
 for d in diaries:
