@@ -10,7 +10,7 @@ diaries = [DiarySample(),
            NiwaDiary(),
            KittaDiary(),
            KoheiDiary(),
-           NiwaDiary()]
+           NunomeDiary()]
 
 
 for d in diaries:
