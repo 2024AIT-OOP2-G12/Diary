@@ -8,7 +8,7 @@ from diaries.KoheiDiary import KoheiDiary
 # ↓のリストには、メンバーの各日記が格納されます。
 diaries = [DiarySample(),
            KoheiDiary(),
-           ,NiwaDiary()
+           NiwaDiary()
 ]
 
 
