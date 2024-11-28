@@ -5,11 +5,13 @@ from diaries.NiwaDiary import NiwaDiary
 from diaries.KoheiDiary import KoheiDiary
 from diaries.kittaDiary import kittaDiary
 # ↓のリストには、メンバーの各日記が格納されます。
+
 diaries = [DiarySample(),
            NiwaDiary(),
            kittaDiary(),
            KoheiDiary(),
            NiwaDiary()]
+
 
 for d in diaries:
     print("---------------------------------")
